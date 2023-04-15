@@ -6,7 +6,7 @@ const config: CapacitorConfig = {
   webDir: 'build',
   bundledWebRuntime: false,
   server: {
-    url: 'http://192.168.1.104:3000',
+    // url: SUA URL IPV4:LOCAL,
     cleartext: true
   }
 };
